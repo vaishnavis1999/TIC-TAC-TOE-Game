@@ -1,5 +1,6 @@
-# TIC-TAC-TOE-Game
-hr
+# TIC-TAC-TOE-Game  
+Creating a simple Tic Tac Toe game
+
 
 Here in this game I've created a simple TIC TAC TOE game interface while practicing DOM( Document  Object Model) 
 
