@@ -1,6 +1,9 @@
 # TIC-TAC-TOE-Game
+hr
 
-Here in this game I've created a simple TIC TAC TOE game interface while practicing DOM( Document  Object Model)
+Here in this game I've created a simple TIC TAC TOE game interface while practicing DOM( Document  Object Model) 
+
+
 About this game and how it works:
 1. Here in this game , 2 players should be able to play the together in one screen .
 2. A board should be printed with X or O at every move of the player .
