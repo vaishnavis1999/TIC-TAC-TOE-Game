@@ -12,6 +12,8 @@ About this game and how it works:
 4. According to the number of taps the inputs are taken and the WINNER is declared . 
 5. If you want to start again then need to click on RESTART button.
 
+<hr>
+
 <div>
   <span>
     <img src="https://user-images.githubusercontent.com/65222550/88295091-98863f00-cd1a-11ea-9683-d47339eede4e.png">
@@ -19,22 +21,12 @@ About this game and how it works:
 </div> <br />
 <br /> 
 
-
-
-
-<hr>
-
 <div>
   <span>
     <img src="https://user-images.githubusercontent.com/65222550/88295291-da16ea00-cd1a-11ea-8faf-46a353300847.png">
      </span>
 </div> <br />
 <br /> 
-
-
-
-
-<hr>
 <div>
   <span>
    <img src="https://user-images.githubusercontent.com/65222550/88295189-b3f14a00-cd1a-11ea-98d3-7bd625e5a16b.png">
