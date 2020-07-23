@@ -18,12 +18,23 @@ About this game and how it works:
      </span>
 </div> <br />
 <br /> 
+
+
+
+
+<hr>
+
 <div>
   <span>
     <img src="https://user-images.githubusercontent.com/65222550/88295291-da16ea00-cd1a-11ea-8faf-46a353300847.png">
      </span>
 </div> <br />
 <br /> 
+
+
+
+
+<hr>
 <div>
   <span>
    <img src="https://user-images.githubusercontent.com/65222550/88295189-b3f14a00-cd1a-11ea-98d3-7bd625e5a16b.png">
